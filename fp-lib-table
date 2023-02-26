@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "TYPE-C16PIN")(type "KiCad")(uri "${KIPRJMOD}/fooprints/TYPE-C16PIN.pretty")(options "")(descr ""))
+  (lib (name "TS-1093A-A3B2-D2")(type "KiCad")(uri "${KIPRJMOD}/fooprints/TS-1093A-A3B2-D2.pretty")(options "")(descr ""))
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/fooprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "qwiic")(type "KiCad")(uri "${KIPRJMOD}/fooprints/qwiic.pretty")(options "")(descr ""))
+  (lib (name "Jumper_Fix")(type "KiCad")(uri "${KIPRJMOD}/fooprints/Jumper_Fix.pretty")(options "")(descr ""))
+)

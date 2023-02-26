@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/libs/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "LiPo_Fuel_Gauge")(type "KiCad")(uri "${KIPRJMOD}/libs/LiPo_Fuel_Gauge.kicad_sym")(options "")(descr ""))
+)
